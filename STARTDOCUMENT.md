@@ -132,7 +132,9 @@ Als er bij de container overzichtspagina op het labeltje **'Container Id'**, **'
 
 ## Test Cases
 **Ophalen van containers**
+
 Als er op het tabblad *Containers* gedrukt wordt, worden alle containers opgehaald uit de database in de `containers: List<Container>` uit de `ContainerRental` klasse. 
 
 **Informatie per container**
+
 Als er op een container gedrukt wordt in de *Containers* tabblad, dan worden alle informatie over de container opgehaald uit de database.
