@@ -76,7 +76,7 @@ De klasse **ContainerRental** is niet statisch, omdat er meerdere containerverhu
 De tabbladen werken zoals behoren:
 - **General:** *gaat naar de hoofdpagina.*
 - **Containers:** *gaat naar de container overzichtspagina, waar alle containers zichtbaar op een rij staan.*
-- **Zoekbalk:** *als daar een containernaam ingevuld wordt, gaat deze naar de desbetreffende overzichtspagina van de container.*
+- **Check Input:** *hier kunnen de inputs per container worden gecheckt en opgeslagen in de database.*
 
 
 De goud-gele knop moet volgens verwachtingen werken:
