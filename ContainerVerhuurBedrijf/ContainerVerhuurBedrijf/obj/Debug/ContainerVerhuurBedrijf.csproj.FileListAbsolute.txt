@@ -1,0 +1,15 @@
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\ContainerVerhuurBedrijf.csproj.AssemblyReference.cache
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\ContainerVerhuurBedrijf.csproj.SuggestedBindingRedirects.cache
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\ContainerVerhuurBedrijf.Properties.Resources.resources
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\ContainerVerhuurBedrijf.csproj.GenerateResource.cache
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\ContainerVerhuurBedrijf.csproj.CoreCompileInputs.cache
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\ContainerVerhuurBedrijf.AboutBox.resources
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\bin\Debug\ContainerDatabase.mdf
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\bin\Debug\ContainerDatabase_log.ldf
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\ContainerVerhuurBedrijf.AppViewer.resources
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\bin\Debug\Container Verhuurbedrijf.exe.config
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\bin\Debug\Container Verhuurbedrijf.exe
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\bin\Debug\Container Verhuurbedrijf.pdb
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\Container Verhuurbedrijf.exe
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\Container Verhuurbedrijf.pdb
+C:\Users\joris\Documents\NHL Stenden Hogeschool\Leerjaar 1\Periode 4\C#\Eindopdracht\C--Eindopdracht\ContainerVerhuurBedrijf\ContainerVerhuurBedrijf\obj\Debug\ContainerVerhuurBedrijf.SplashScreen.resources

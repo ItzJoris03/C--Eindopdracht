@@ -1,7 +1,7 @@
 # Eindopdracht C#
 **Eindopdracht C# - Opdracht 6: Containerverhuur** 
 **Door:** *Joris Hummel*
-**Datum:** *02-06-2022*
+**Datum:** *23-06-2022*
 
 ## Probleemdefinitie
 
@@ -43,7 +43,7 @@ bedraagt, anders € 125,-.
 ## GUI
 
 ![About Box](./img/About%20Box.png)
-![Container Info](./img/Container%20Info.png)
+![Check Input](./img/CheckInput.png)
 ![Containers Overzicht](./img/Containers.png)
 ![General](./img/General.png)
 
