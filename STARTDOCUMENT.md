@@ -138,3 +138,13 @@ Als er op het tabblad *Containers* gedrukt wordt, worden alle containers opgehaa
 **Informatie per container**
 
 Als er op een container gedrukt wordt in de *Containers* tabblad, dan worden alle informatie over de container opgehaald uit de database.
+
+
+|Invoer| |||Uitvoer|||
+|Container| Begindag|Einddag|Kosten|Totale inkomsten|Langste period|
+|--|--|--|--|--|--|
+|`2m3`|`01-01-2022`|`05-01-2022`|`380`|`380`|`4 dagen`|
+|`18m3`|`02-01-2022`|`06-01-2022`|`3005`|`3385`|`4 dagen`|
+|`37m3`|`01-01-2022`|`10-01-2022`|`13445`|`16830`|`9 dagen`|
+|``|``|``|``|``|``|
+
