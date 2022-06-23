@@ -50,7 +50,7 @@ bedraagt, anders € 125,-.
 
 ## UML-Diagram
 
-![](https://mermaid.ink/img/pako:eNqVVMFu3CAQ_RWEevB216v0iqpKSbaHShspSqKefCFm1kHFUAG2VCWbb--sjW3ssFHigwXMm5n3ZgaeaWkEUEZLxZ3bSV5ZXhea4CekhdJLo8n-rj_pMOTaaM-lBnsHuFDPve305eVgcozspfOvI_Z1Qq0XAbJVZLN4lI2AFWmNFJG5Av9g0OfWmoP02YoclOF-Dgi2KEgCtDe6Aud7BrdgpREYzXkrdTVH_jaqqeGyBcsrSGTkQoypss74hrWF2rQwoZL6jskak7i8UjAidZQ8bztybEkql-6y5VLxR4XGR2NUbNOYtIShRb_6bbJB2Sz-KtGIa-O8m1clCIlLS7bblx8kZCIMV0947mPFM3gkuuSqbBT3EDJ9WWo9GFtz_yBryPr2ISTuY6AzJC_oxXb7taDke57j5huuRrkxnwH_fv2d59bvkB0jAv-RBbRIna9D3Czy7NluyOgSdCzGOjWkQdw0LqjorLy-xOmrvLu6uY-1rksLXdGHSRivNpu8sNLz2cJJ59Nt6Lp1_hmYYbNQW_RYtKPDClDweTa9hqHiH1cQPCb-iTsS4Qbu5IWcyRGAbwR9OMBE8kg3tAYceSnw1e46VlD_BDUUlOFScPunoIU-4Zq_p-H7KaQ3lrIDVw42lDfe3P_TJWXeNjCAwssfUMf_CoLvwg)
+![](https://mermaid.ink/img/pako:eNqlVcGO2yAQ_RWE9pA0zqq9ovaw3fRQKZVWSdWTL6yZpKgYtoAtVavst3dsHBvbeNuqPljAe4xn3mPwMy2MAMpoobhzO8nPlpe5JvgIaaHw0miyP4SVlkPujfZcarAHwIF6DljzbIsr5BjZS-dfeu7LwNpMAqzWEXYG_9Xg4oM1J-ndak1OynA_ZuyNPoPzYfsDWGkEEp23Up_HzG9GVSXc1WD5GRLBuBB9Nqu6JbNAWpPaSLFE7QtlgxyzHRZKU8Pfb7okVSaxwFIwInVUwXaUdMx0dzWXij8qBB-NURH21Ep29SgImDRoIkmS0qWUkRE3I7MEUjbfG5c0GcXufA25MhKmCbkCQHL69vb2TU7J--0WJ-9w1OcY69rRXxe1d-rzDHKeW7_jHosS-I4Q0CK1vukKmcbMSBQqnN2M9DHCwnoeppf7f-OhBcutU3BVVAp3BoP6b5EPRFdKjQ5w5F1nyXB20YhFV0L7Tnc0xIGy-_jlOLJ5CZ5eTQ0Sm9yUi6gONxqWfPyphnlcuTIOIiaWrtmYjdqXolsrS65FRixwEamDEMrOD-3q7F4okO3_dC_cTJp203yih7Fnbl65YUfc65HBHZOOaLkCFPx7NqGGdI8mUw-YWwo_v4kuNKMl2JJLgb-n1sqc-u9QQk4ZDgW3P3Ka64ZXPTU990lIbyxlJ64cZJRX3hx_6YIybyu4krpfXMe6_Ab4Cz7P)
 
 **RentalPeriod** is een abstracte klasse. De methodes in deze klasse zijn standaard methodes die de container klasse moet hebben, maar niet tot de klasse zelf behoort. Er kan met een abstracte klasse geen object gemaakt worden en biedt een stukje veiligheid in de code.
 
@@ -89,55 +89,13 @@ Als er bij de container overzichtspagina op het labeltje **'Container Id'**, **'
 - **'Total Volume':** *zorgt voor de volgorde van de totale volume.*
 - **'Available':** *zorgt voor de volgorde van beschikbare containers*
 
-## Start Data
-### Database
-**Container**
-|Id|Volume|isAvailable|
-|--|--|--|
-|`1`|`2,0`|`true`|
-|`2`|`18,21`|`true`|
-|`3`|`37,57`|`false`|
-|`4`|`15,641`|`false`|
-|`5`|`1,4`|`false`|
-|`6`|`135,0`|`true`|
-|`7`|`46,8`|`true`|
-|`8`|`23,1`|`true`|
-|`9`|`12,45`|`false`|
-|`10`|`0,86`|`true`|
-|`11`|`34,13`|`true`|
-|`12`|`75,4`|`false`|
-
-**Invoice**
-|Id|ContainerId|startDate|endDate|
-|--|--|--|--|
-|`1`|`6`|`2016-01-31`|`2016-02-27`|
-|`2`|`1`|`2014-05-21`|`2014-06-19`|
-|`3`|`5`|`2018-11-13`|`2019-02-05`|
-|`4`|`12`|`2015-10-07`|`2016-05-09`|
-|`5`|`4`|`2020-02-18`|`2020-07-11`|
-|`6`|`8`|`2019-06-28`|`2019-11-20`|
-|`7`|`4`|`2021-03-24`|`2021-10-28`|
-|`8`|`9`|`2015-01-06`|`2015-08-31`|
-|`9`|`10`|`2016-09-30`|`2017-05-19`|
-|`10`|`6`|`2017-08-23`|`2017-09-05`|
-|`11`|`3`|`2019-03-19`|`2019-06-14`|
-|`12`|`8`|`2016-12-01`|`2017-01-20`|
-
-### Classes
-
-**ContainerRental**
-| Id | Input | Code |
-|--|--|--|
-| Company | | `new ContainerRental()`|
-
 ## Test Cases
 **Ophalen van containers**
 
 Als er op het tabblad *Containers* gedrukt wordt, worden alle containers opgehaald uit de database in de `containers: List<Container>` uit de `ContainerRental` klasse. 
 
-**Informatie per container**
-
-Als er op een container gedrukt wordt in de *Containers* tabblad, dan worden alle informatie over de container opgehaald uit de database.
+**Verwijderen van containers**
+Als er op het tabblad *Containers* gedrukt wordt, zie je een verwijder knop naast een container. Als hierop gedrukt wordt, zal de container worden verwijderd uit het tabbel en uit de database en worden alle gegevens aangepast.
 
 
 |Invoer|||Uitvoer|||
@@ -147,4 +105,5 @@ Als er op een container gedrukt wordt in de *Containers* tabblad, dan worden all
 |`18m3`|`02-01-2022`|`06-01-2022`|`3005`|`3385`|`4 dagen`|
 |`37m3`|`01-01-2022`|`10-01-2022`|`13445`|`16830`|`9 dagen`|
 |``|``|``|``|``|``|
+
 
